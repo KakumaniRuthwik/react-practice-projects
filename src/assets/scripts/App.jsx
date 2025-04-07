@@ -1,6 +1,10 @@
+import Header from "../Components/Header.jsx"
+
 export function App(){
     return (
-        <header></header>
+        <div>
+            <Header />
+        </div>
     );
 }
 
