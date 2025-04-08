@@ -19,7 +19,7 @@ function Header(){
                 </div>
 
                 <div>
-                    <div className="flex justify-end">
+                    <div className="flex justify-end select-none">
                         <ul className="flex gap-4 items-center text-[13px] font-[Arial,sans-serif]">
                             <li>
                                 <a href="#">Gmail</a>

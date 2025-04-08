@@ -3,9 +3,11 @@ import { GoogleCenteredText } from "../Components/MainSection.jsx"
 
 export function App(){
     return (
-        <div>
+        <div className="flex flex-col min-h-screen">
             <Header />
-            <GoogleCenteredText />
+            <main className="flex flex-1">
+                <GoogleCenteredText />
+            </main>
         </div>
     );
 }
