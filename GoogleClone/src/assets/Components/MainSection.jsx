@@ -1,7 +1,5 @@
-import GoogleText from "../Images/GoogleText.png"
-import SearchIcon from "../Images/googleSearch.svg"
-import MicIcon from "../Images/googleMic.svg"
-import LensIcon from "../Images/googleLens.svg"
+import { GoogleText, SearchIcon, MicIcon, LensIcon } from "../scripts/Images.js";
+
 
 export function GoogleCenteredText(){
     return (

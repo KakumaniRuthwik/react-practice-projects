@@ -1,6 +1,4 @@
-import SearchLabs  from "../Images/GoogleLabs.svg"
-import MenuIconApps  from "../Images/menuIcon.svg"
-import accountLogo  from "../Images/accountLogo.jpg"
+import { SearchLabs, MenuIconApps, accountLogo  } from "../scripts/Images.js"
 
 
 function Header(){
